@@ -118,6 +118,12 @@
                 "category": "Displaying everything on github profile",
                 "image": "github.png",
                 "url": "https://github.com/Nyambura254/Nyambura254"
+            },
+            {
+                "title": "my website",
+                "category": "My personal website",
+                "image": "resume-web.png",
+                "url": "https://github.com/Nyambura254/Resume-website"
             }
         ]
     }
