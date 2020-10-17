@@ -102,8 +102,8 @@
     },
     "portfolio": {
         "projects": [{
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
+                "title": "React & Node-Todo-App",
+                "category": "Exploring React goodies",
                 "image": "canadian-wanderlust.jpg",
                 "url": "https://www.canadianwanderlust.com"
             },
