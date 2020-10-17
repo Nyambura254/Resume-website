@@ -18,9 +18,9 @@
         "website": "http://www.timbakerdev.com",
         "resumedownload": "https://www.linkedin.com/in/boniface-mwangi-398154188/",
         "social": [{
-                "name": "facebook",
-                "url": "https://github.com/nordicgiant2/react-nice-resume",
-                "className": "fa fa-facebook"
+                "name": "YouTube",
+                "url": "https://www.youtube.com/channel/UCBCt4HNpZ4hz_gi-erussBA?view_as=subscriber",
+                "className": "fa fa-YouTube"
             },
             {
                 "name": "twitter",
@@ -47,22 +47,27 @@
     "resume": {
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [{
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "LakeHub Academy",
+                "Certified": "Software Developer",
+                "period": "April-September 2020",
+                "website": "academy@lakehub.co.ke",
+                "contact": "+254 774 440 004",
+                "description": "Learning everything from scratch, that is fundamentals in programming in Javascript and MERN Stack,how to write from small application to complex apps, deploying them and how to test and run them.How to contribute to open source projects and working together as team using Visual tools due to Covid-19 pandemic."
             },
             {
-                "school": "School #1 Maybe College?",
-                "degree": "What did you study 101",
-                "graduated": "March 2003",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Masinde Muliro University of Science & Technology",
+                "degree": "BSc. Information Systems & Knowledge Management",
+                "Association": "School of Computing & Informatics",
+                "website": "http://mmust.ac.ke/schools/sci/",
+                "contact": "deansci@mmust.ac.ke",
+                "period": "2017-2020(Not completed",
+                "description": "Joined Association of Computing student,learned web development in HTML, CSS & JavaScript to build websites,mySQL database,Apache, SQL,Elected as Student Lead and many more."
             }
         ],
         "work": [{
-                "company": "Awesome Design Studio",
-                "title": "Senior UX God ",
-                "years": "March 2010 - Present",
+                "company": "DEAN",
+                "title": "Student Requirements Engineer",
+                "years": "September 2020 - Present",
                 "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
             },
             {
@@ -73,11 +78,11 @@
             }
         ],
         "skills": [{
-                "name": "Python",
+                "name": "JavaScript",
                 "level": "60%"
             },
             {
-                "name": "VueJs",
+                "name": "HTML5",
                 "level": "55%"
             },
             {
@@ -89,15 +94,15 @@
                 "level": "90%"
             },
             {
-                "name": "PHP",
-                "level": "80%"
+                "name": "Express",
+                "level": "70%"
             },
             {
-                "name": "Swift",
+                "name": "Node",
                 "level": "50%"
             },
             {
-                "name": "JAVA",
+                "name": "MongoDB",
                 "level": "80%"
             }
         ]
