@@ -48,7 +48,7 @@
         "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
         "education": [{
                 "school": "LakeHub Academy",
-                "Certified": "Software Developer",
+                "degree": "Software Developer",
                 "period": "April-September 2020",
                 "website": "academy@lakehub.co.ke",
                 "contact": "+254 774 440 004",
