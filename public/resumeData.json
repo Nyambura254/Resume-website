@@ -104,14 +104,14 @@
         "projects": [{
                 "title": "React & Node-Todo-App",
                 "category": "Exploring React goodies",
-                "image": "canadian-wanderlust.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "image": "todo-app.png",
+                "url": "https://react-todotask-app.herokuapp.com/"
             },
             {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "fury-fighting-gear.jpg",
-                "url": "http://www.timbakerdev.com"
+                "title": "Static Website",
+                "category": "HTML,CSS & JAVASCRIPT Website",
+                "image": "bonnie-website.png",
+                "url": "https://bonnie-mwangi.netlify.app/"
             },
             {
                 "title": "Original Thai Food",
