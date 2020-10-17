@@ -114,22 +114,10 @@
                 "url": "https://bonnie-mwangi.netlify.app/"
             },
             {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "original-thai-food.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-            },
-            {
-                "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "resume-website.jpg",
-                "url": "http://www.timbakerdev.com"
-            },
-            {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "smirkspace.jpg",
-                "url": "http://www.smirkspace.com"
+                "title": "GitHub ReadMe.md profile build",
+                "category": "Displaying everything on github profile",
+                "image": "github.png",
+                "url": "https://github.com/Nyambura254/Nyambura254"
             }
         ]
     }
