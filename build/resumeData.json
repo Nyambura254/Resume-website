@@ -15,12 +15,12 @@
             "state": "(Kenya)",
             "zip": "(20100)"
         },
-        "website": "http://www.timbakerdev.com",
+        "website": "https://bonnie-mwangi.herokuapp.com",
         "resumedownload": "https://www.linkedin.com/in/boniface-mwangi-398154188/",
         "social": [{
                 "name": "YouTube",
                 "url": "https://www.youtube.com/channel/UCBCt4HNpZ4hz_gi-erussBA?view_as=subscriber",
-                "className": "fab fa-youtube"
+                "className": "fa fa-youtube"
             },
             {
                 "name": "twitter",
@@ -44,8 +44,8 @@
             },
              {
                 "name": "medium",
-                "url": "https://github.com/Nyambura254",
-                "className": "fab fa-medium"
+                "url": "https://medium.com/@nyamburabonnie",
+                "className": "fa fa-medium"
             }
         ]
     },
