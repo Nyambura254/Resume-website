@@ -93,7 +93,7 @@ class Contact extends Component {
                      <li>
                         <span>
                         He is good in website development...just within time to be an expert fullstack developer
-                        <a href="https://github.com/Nyambura254">https://github.com/Nyambura254</a>
+                        <a href="https://github.com/Nyambura254">https://twitter.com/BonnieNyambura</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
