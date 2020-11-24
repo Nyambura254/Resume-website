@@ -106,7 +106,7 @@
         "projects": [{
                 "title": "React & Node-Todo-App",
                 "category": "Exploring React goodies",
-                "image": "todo-app.png",
+                "image": "todo-app.jpg",
                 "url": "https://react-todotask-app.herokuapp.com/"
             },
             {
@@ -126,6 +126,12 @@
                 "category": "My personal website",
                 "image": "resume-web.jpg",
                 "url": "https://github.com/Nyambura254/Resume-website"
+            },
+             {
+                "title": "My UI/UX Designs",
+                "category": "Designs",
+                "image": "Figma.jpg",
+                "url": "https://github.com/Nyambura254/Figma-UI-design"
             }
         ]
     }
