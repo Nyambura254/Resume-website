@@ -20,7 +20,7 @@
         "social": [{
                 "name": "YouTube",
                 "url": "https://www.youtube.com/channel/UCBCt4HNpZ4hz_gi-erussBA?view_as=subscriber",
-                "className": "fa fa-youtube"
+                "className": "fab fa-youtube"
             },
             {
                 "name": "twitter",
@@ -45,7 +45,7 @@
              {
                 "name": "medium",
                 "url": "https://github.com/Nyambura254",
-                "className": "fa fa-medium"
+                "className": "fab fa-medium"
             }
         ]
     },
