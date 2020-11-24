@@ -56,7 +56,7 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="20" rows="10" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea cols="15" rows="8" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
                   <div>
@@ -93,14 +93,14 @@ class Contact extends Component {
                      <li>
                         <span>
                         He is good in website development...just within time to be an expert fullstack developer
-                        <a href="#">https://github.com/Nyambura254</a>
+                        <a href="https://github.com/Nyambura254">https://github.com/Nyambura254</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
                         Not only a silent developer but also a great teacher in tech stuffs
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        <a href="#">https://twitter.com/BonnieNyambura</a>
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
